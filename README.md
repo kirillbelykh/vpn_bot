@@ -49,6 +49,7 @@
 - Заполните файл .env на основе .env.example
 - Установите зависимости и запустите бота:
   ```bash
+  pip install -r requirements.txt
   python3 bot.py
   ```
 
@@ -68,5 +69,6 @@ Get your Shop ID and Secret Key.
 - Fill in the .env file using .env.example as a reference
 - Install dependencies and run the bot:
    ```bash
+  pip install -r requirements.txt
   python3 bot.py
    ```
