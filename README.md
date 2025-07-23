@@ -24,11 +24,12 @@
 
 ## 🛠️ Стек технологий / Tech Stack
 - Python 3
-- aiogram (Telegram bot framework)
+- FastAPI
+- aiogram3 (Telegram bot framework)
 - PostgreSQL
 - Pony ORM
 - Outline API
-- YooKassa (оплата)
+- YooKassa 
 - APScheduler (планировщик задач)
 - Linux VPS + nginx
 
