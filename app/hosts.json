@@ -1,0 +1,14 @@
+[
+    {
+        "host": "682618.cloud4box.ru",
+        "api_url": "https://185.244.40.135:34858/SR0sYxJJjvTbGkUIRseqtw",
+        "max_devices": 100,
+        "current_devices": 0
+    },
+    {
+        "host": "685051.cloud4box.ru",
+        "api_url": "https://185.244.40.98:8735/tg0QZkDlPkpomsE0VWxTdA",
+        "max_devices": 200,
+        "current_devices": 0
+    }
+]
